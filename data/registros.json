@@ -1,1 +1,12 @@
-﻿[]
+﻿[
+    {
+        "id": "ddc07198-384f-4550-842f-61247b2b5507",
+        "pelicula": "Interestelar",
+        "autor": "Jonathan Perez",
+        "email": "bouncysaturno@gmail.com",
+        "descripcion": "la mejor peli",
+        "fecha": "2026-10-15",
+        "genero": "Acción",
+        "creadoEn": "2026-10-15T21:46:18.369Z"
+    }
+]
